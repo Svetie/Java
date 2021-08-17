@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body, html {
+    background-color: rgb(238, 241, 234);
+}
+
+#containerMain {
+    width: 80%;
+    height: 75vh;
+    margin: 2% auto;
+
+}
